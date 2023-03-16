@@ -203,12 +203,12 @@
 
   <distributionManagement>
 		<repository>
-			<id>project-release</id>
+			<id>project_release</id>
 			<name>project_release</name>
 			<url>http://3.99.158.93:8081/repository/project_release/</url>
 		</repository>
 		<snapshotRepository>
-			<id>project-snapshot</id>
+			<id>project_snapshot</id>
 			<name>project_snapshot</name>
 			<url>http://3.99.158.93:8081/repository/project_snapshot/</url>
 		</snapshotRepository>
